@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-
+cp -r ~/.config/eww ~/git/i3-eww-dots
 cp -r ~/.config/kitty ~/git/i3-eww-dots
 cp -r ~/.config/i3 ~/git/i3-eww-dots
 cp -r ~/.config/nvim ~/git/i3-eww-dots
