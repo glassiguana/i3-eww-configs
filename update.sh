@@ -9,6 +9,6 @@ cp -r ~/.config/rofi ~/git/i3-eww-dots
 cp -r ~/.xinitrc ~/git/i3-eww-dots
 
 
-git add --all
+git add .
 git commit -m $1
 git push
