@@ -11,4 +11,4 @@ cp -r ~/.xinitrc ~/git/i3-eww-dots
 
 git add .
 git commit -m $1
-git push
+git push origin main
